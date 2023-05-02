@@ -1,0 +1,3156 @@
+{
+  "1642557768484761603": {
+    "created_at": "Sun Apr 02 16:01:03 +0000 2023",
+    "id": 1642557768484761603,
+    "id_str": "1642557768484761603",
+    "full_text": "Day 11 \nsuhoor:a childhood meal I haven\u2019t eaten in years bread butter milk in a bowl (414/21.5) \niftar: date , egg , bread , cheese , muttabal (417/34.5) \nSnack: whey , pineapple , last 50ml of oatmilk (232/14.7)\ntotal : 1063 cals &amp; 70.7 grams of protein \ud83d\udc4e\ud83c\udffb",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      261
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1642227258453639168,
+    "in_reply_to_status_id_str": "1642227258453639168",
+    "in_reply_to_user_id": 1625503404520009731,
+    "in_reply_to_user_id_str": "1625503404520009731",
+    "in_reply_to_screen_name": "rebirevomeem",
+    "user_id": 1625503404520009731,
+    "user_id_str": "1625503404520009731",
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "reply_count": 1,
+    "quote_count": 0,
+    "conversation_id": 1638795175538335747,
+    "conversation_id_str": "1638795175538335747",
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en",
+    "supplemental_language": null,
+    "self_thread": {
+      "id": 1638795175538335747,
+      "id_str": "1638795175538335747"
+    },
+    "ext_edit_control": {
+      "initial": {
+        "edit_tweet_ids": [
+          "1642557768484761603"
+        ],
+        "editable_until_msecs": "1680453063000",
+        "edits_remaining": "5",
+        "is_edit_eligible": false
+      }
+    },
+    "ext_views": {
+      "state": "EnabledWithCount",
+      "count": "100"
+    },
+    "ext": {
+      "editControl": {
+        "r": {
+          "ok": {
+            "initial": {
+              "editTweetIds": [
+                "1642557768484761603"
+              ],
+              "editableUntilMsecs": "1680453063000",
+              "editsRemaining": "5",
+              "isEditEligible": false
+            }
+          }
+        },
+        "ttl": -1
+      },
+      "superFollowMetadata": {
+        "r": {
+          "ok": {}
+        },
+        "ttl": -1
+      },
+      "unmentionInfo": {
+        "r": {
+          "ok": {}
+        },
+        "ttl": -1
+      }
+    }
+  },
+  "1642647273501859840": {
+    "created_at": "Sun Apr 02 21:56:43 +0000 2023",
+    "id": 1642647273501859840,
+    "id_str": "1642647273501859840",
+    "full_text": "@elsashowergel bread butter cheese or ham idk maybe some jam and some veggies and fruit",
+    "truncated": false,
+    "display_text_range": [
+      15,
+      87
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "elsashowergel",
+          "name": "taz \ud83c\udf53\ud83d\udd6f",
+          "id": 1502619778661425154,
+          "id_str": "1502619778661425154",
+          "indices": [
+            0,
+            14
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1642646994375065612,
+    "in_reply_to_status_id_str": "1642646994375065612",
+    "in_reply_to_user_id": 1502619778661425154,
+    "in_reply_to_user_id_str": "1502619778661425154",
+    "in_reply_to_screen_name": "elsashowergel",
+    "user_id": 1635737012174028808,
+    "user_id_str": "1635737012174028808",
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "reply_count": 1,
+    "quote_count": 0,
+    "conversation_id": 1642646994375065612,
+    "conversation_id_str": "1642646994375065612",
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en",
+    "supplemental_language": null,
+    "ext_views": {
+      "state": "EnabledWithCount",
+      "count": "169"
+    },
+    "ext_edit_control": {
+      "initial": {
+        "edit_tweet_ids": [
+          "1642647273501859840"
+        ],
+        "editable_until_msecs": "1680474403000",
+        "edits_remaining": "5",
+        "is_edit_eligible": false
+      }
+    },
+    "ext": {
+      "unmentionInfo": {
+        "r": {
+          "ok": {}
+        },
+        "ttl": -1
+      },
+      "editControl": {
+        "r": {
+          "ok": {
+            "initial": {
+              "editTweetIds": [
+                "1642647273501859840"
+              ],
+              "editableUntilMsecs": "1680474403000",
+              "editsRemaining": "5",
+              "isEditEligible": false
+            }
+          }
+        },
+        "ttl": -1
+      },
+      "superFollowMetadata": {
+        "r": {
+          "ok": {}
+        },
+        "ttl": -1
+      }
+    }
+  },
+  "1642952937738584064": {
+    "created_at": "Mon Apr 03 18:11:19 +0000 2023",
+    "id": 1642952937738584064,
+    "id_str": "1642952937738584064",
+    "full_text": "@inthefade DId you know that pickle on hamburger is great and mixing mustard w/ketchup(meaning catch up in nutrition by adding anything nutritious like thee(high in Choline) scrambled egg w/paprika curcumin though scrambpledegg best w/cheese omelet and egg n' nest of bread&amp;butter",
+    "truncated": false,
+    "display_text_range": [
+      11,
+      284
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "inthefade",
+          "name": "bring on the dancing horses",
+          "id": 7214972,
+          "id_str": "7214972",
+          "indices": [
+            0,
+            10
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1642946146250153990,
+    "in_reply_to_status_id_str": "1642946146250153990",
+    "in_reply_to_user_id": 7214972,
+    "in_reply_to_user_id_str": "7214972",
+    "in_reply_to_screen_name": "inthefade",
+    "user_id": 84572300,
+    "user_id_str": "84572300",
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "reply_count": 0,
+    "quote_count": 0,
+    "conversation_id": 1642946146250153990,
+    "conversation_id_str": "1642946146250153990",
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en",
+    "supplemental_language": null,
+    "ext_edit_control": {
+      "initial": {
+        "edit_tweet_ids": [
+          "1642952937738584064"
+        ],
+        "editable_until_msecs": "1680547279000",
+        "edits_remaining": "5",
+        "is_edit_eligible": false
+      }
+    },
+    "ext_views": {
+      "state": "EnabledWithCount",
+      "count": "8"
+    },
+    "ext": {
+      "superFollowMetadata": {
+        "r": {
+          "ok": {}
+        },
+        "ttl": -1
+      },
+      "unmentionInfo": {
+        "r": {
+          "ok": {}
+        },
+        "ttl": -1
+      },
+      "editControl": {
+        "r": {
+          "ok": {
+            "initial": {
+              "editTweetIds": [
+                "1642952937738584064"
+              ],
+              "editableUntilMsecs": "1680547279000",
+              "editsRemaining": "5",
+              "isEditEligible": false
+            }
+          }
+        },
+        "ttl": -1
+      }
+    }
+  },
+  "1645117074715598849": {
+    "created_at": "Sun Apr 09 17:30:50 +0000 2023",
+    "id": 1645117074715598849,
+    "id_str": "1645117074715598849",
+    "full_text": "@DeepikaBhardwaj But you must be careful girl\u2026\n\nThey are dangerous spices\u2026 \n\nyour are snatching away their bread butter, jam, pizza, cheese\u2026. Designer clothes, expensive jewellery\u2019s to flats, properties, luxurious holidays !!\n\nDid I missed anything??\n\nEk Deepika\u2026 sab paar bhari \ud83d\ude1c",
+    "truncated": false,
+    "display_text_range": [
+      17,
+      280
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "DeepikaBhardwaj",
+          "name": "Deepika Narayan Bhardwaj",
+          "id": 50243741,
+          "id_str": "50243741",
+          "indices": [
+            0,
+            16
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1645039136250957825,
+    "in_reply_to_status_id_str": "1645039136250957825",
+    "in_reply_to_user_id": 50243741,
+    "in_reply_to_user_id_str": "50243741",
+    "in_reply_to_screen_name": "DeepikaBhardwaj",
+    "user_id": 1294983826620526592,
+    "user_id_str": "1294983826620526592",
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "reply_count": 0,
+    "quote_count": 0,
+    "conversation_id": 1645039136250957825,
+    "conversation_id_str": "1645039136250957825",
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en",
+    "supplemental_language": null,
+    "ext_views": {
+      "state": "EnabledWithCount",
+      "count": "844"
+    },
+    "ext_edit_control": {
+      "initial": {
+        "edit_tweet_ids": [
+          "1645117074715598849"
+        ],
+        "editable_until_msecs": "1681063250000",
+        "edits_remaining": "5",
+        "is_edit_eligible": false
+      }
+    },
+    "ext": {
+      "unmentionInfo": {
+        "r": {
+          "ok": {}
+        },
+        "ttl": -1
+      },
+      "editControl": {
+        "r": {
+          "ok": {
+            "initial": {
+              "editTweetIds": [
+                "1645117074715598849"
+              ],
+              "editableUntilMsecs": "1681063250000",
+              "editsRemaining": "5",
+              "isEditEligible": false
+            }
+          }
+        },
+        "ttl": -1
+      },
+      "superFollowMetadata": {
+        "r": {
+          "ok": {}
+        },
+        "ttl": -1
+      }
+    }
+  },
+  "1645172112733134855": {
+    "created_at": "Sun Apr 09 21:09:32 +0000 2023",
+    "id": 1645172112733134855,
+    "id_str": "1645172112733134855",
+    "full_text": "@AngelaH58 We had Eton mess for dessert.\nWe had a cheese board in the evening with grapes ,celery, onion chutney and crackers and olives .\nI wish I liked bread &amp; butter pudding as it always looks and smells nice just never liked it..\nSounds like you were very busy. xxx",
+    "truncated": false,
+    "display_text_range": [
+      11,
+      273
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "AngelaH58",
+          "name": "Angela. \ud83c\uddec\ud83c\udde7",
+          "id": 362626833,
+          "id_str": "362626833",
+          "indices": [
+            0,
+            10
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1645169306999595010,
+    "in_reply_to_status_id_str": "1645169306999595010",
+    "in_reply_to_user_id": 362626833,
+    "in_reply_to_user_id_str": "362626833",
+    "in_reply_to_screen_name": "AngelaH58",
+    "user_id": 375391871,
+    "user_id_str": "375391871",
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "reply_count": 1,
+    "quote_count": 0,
+    "conversation_id": 1645008737776566272,
+    "conversation_id_str": "1645008737776566272",
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en",
+    "supplemental_language": null,
+    "ext_views": {
+      "state": "EnabledWithCount",
+      "count": "18"
+    },
+    "ext_edit_control": {
+      "initial": {
+        "edit_tweet_ids": [
+          "1645172112733134855"
+        ],
+        "editable_until_msecs": "1681076372000",
+        "edits_remaining": "5",
+        "is_edit_eligible": false
+      }
+    },
+    "ext": {
+      "superFollowMetadata": {
+        "r": {
+          "ok": {}
+        },
+        "ttl": -1
+      },
+      "unmentionInfo": {
+        "r": {
+          "ok": {}
+        },
+        "ttl": -1
+      },
+      "editControl": {
+        "r": {
+          "ok": {
+            "initial": {
+              "editTweetIds": [
+                "1645172112733134855"
+              ],
+              "editableUntilMsecs": "1681076372000",
+              "editsRemaining": "5",
+              "isEditEligible": false
+            }
+          }
+        },
+        "ttl": -1
+      }
+    }
+  },
+  "1645074482141470728": {
+    "created_at": "Sun Apr 09 14:41:35 +0000 2023",
+    "id": 1645074482141470728,
+    "id_str": "1645074482141470728",
+    "full_text": "@sagarikaghose Iska bread butter cheese bjp ke ane se khatam hua hain ..she is so restless \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02 @sagarikaghose  try ice cream instead ..don\u2019t be so f** Frustated",
+    "truncated": false,
+    "display_text_range": [
+      15,
+      162
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "sagarikaghose",
+          "name": "Sagarika Ghose",
+          "id": 56312411,
+          "id_str": "56312411",
+          "indices": [
+            0,
+            14
+          ]
+        },
+        {
+          "screen_name": "sagarikaghose",
+          "name": "Sagarika Ghose",
+          "id": 56312411,
+          "id_str": "56312411",
+          "indices": [
+            97,
+            111
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1644955855228657664,
+    "in_reply_to_status_id_str": "1644955855228657664",
+    "in_reply_to_user_id": 56312411,
+    "in_reply_to_user_id_str": "56312411",
+    "in_reply_to_screen_name": "sagarikaghose",
+    "user_id": 1191746090040586241,
+    "user_id_str": "1191746090040586241",
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "reply_count": 0,
+    "quote_count": 0,
+    "conversation_id": 1644955855228657664,
+    "conversation_id_str": "1644955855228657664",
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en",
+    "supplemental_language": null,
+    "ext_views": {
+      "state": "EnabledWithCount",
+      "count": "11"
+    },
+    "ext_edit_control": {
+      "initial": {
+        "edit_tweet_ids": [
+          "1645074482141470728"
+        ],
+        "editable_until_msecs": "1681053095000",
+        "edits_remaining": "5",
+        "is_edit_eligible": false
+      }
+    },
+    "ext": {
+      "superFollowMetadata": {
+        "r": {
+          "ok": {}
+        },
+        "ttl": -1
+      },
+      "editControl": {
+        "r": {
+          "ok": {
+            "initial": {
+              "editTweetIds": [
+                "1645074482141470728"
+              ],
+              "editableUntilMsecs": "1681053095000",
+              "editsRemaining": "5",
+              "isEditEligible": false
+            }
+          }
+        },
+        "ttl": -1
+      },
+      "unmentionInfo": {
+        "r": {
+          "ok": {}
+        },
+        "ttl": -1
+      }
+    }
+  },
+  "1644054695822999552": {
+    "created_at": "Thu Apr 06 19:09:19 +0000 2023",
+    "id": 1644054695822999552,
+    "id_str": "1644054695822999552",
+    "full_text": "Also, I've got the place to myself tonight, so I'm making myself Steak-umms for dinner, a variation on Tuesday's Steak-umms:\nThree Steak-umms\nOne slice American cheese, melted\nTwo bread &amp; butter chips\nExtra-garlic mayo\nToasted bun",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      234
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1644054693021200384,
+    "in_reply_to_status_id_str": "1644054693021200384",
+    "in_reply_to_user_id": 36995982,
+    "in_reply_to_user_id_str": "36995982",
+    "in_reply_to_screen_name": "CharliePauken",
+    "user_id": 36995982,
+    "user_id_str": "36995982",
+    "geo": null,
+    "coordinates": null,
+    "place": {
+      "id": "8e9665cec9370f0f",
+      "url": "https://api.twitter.com/1.1/geo/id/8e9665cec9370f0f.json",
+      "place_type": "city",
+      "name": "Minneapolis",
+      "full_name": "Minneapolis, MN",
+      "country_code": "US",
+      "country": "United States",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -93.329515,
+              44.889964
+            ],
+            [
+              -93.194578,
+              44.889964
+            ],
+            [
+              -93.194578,
+              45.051257
+            ],
+            [
+              -93.329515,
+              45.051257
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "reply_count": 0,
+    "quote_count": 0,
+    "conversation_id": 1644054693021200384,
+    "conversation_id_str": "1644054693021200384",
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en",
+    "supplemental_language": null,
+    "self_thread": {
+      "id": 1644054693021200384,
+      "id_str": "1644054693021200384"
+    },
+    "ext_edit_control": {
+      "initial": {
+        "edit_tweet_ids": [
+          "1644054695822999552"
+        ],
+        "editable_until_msecs": "1680809959000",
+        "edits_remaining": "5",
+        "is_edit_eligible": false
+      }
+    },
+    "ext_views": {
+      "state": "EnabledWithCount",
+      "count": "15"
+    },
+    "ext": {
+      "unmentionInfo": {
+        "r": {
+          "ok": {}
+        },
+        "ttl": -1
+      },
+      "editControl": {
+        "r": {
+          "ok": {
+            "initial": {
+              "editTweetIds": [
+                "1644054695822999552"
+              ],
+              "editableUntilMsecs": "1680809959000",
+              "editsRemaining": "5",
+              "isEditEligible": false
+            }
+          }
+        },
+        "ttl": -1
+      },
+      "superFollowMetadata": {
+        "r": {
+          "ok": {}
+        },
+        "ttl": -1
+      }
+    }
+  },
+  "1644824158876889088": {
+    "created_at": "Sat Apr 08 22:06:53 +0000 2023",
+    "id": 1644824158876889088,
+    "id_str": "1644824158876889088",
+    "full_text": "Had friends around for lunch today. Cooked lamb chump steaks from @Fullers_Butcher flavoured with lemon &amp; garlic, accompanied by mashed potatoes, cauliflower cheese, roasted carrots &amp; parsnips, and broccoli... followed by a hot cross bun bread &amp; butter pudding.\n\n(no photos \ud83d\ude10)",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      288
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Fullers_Butcher",
+          "name": "Fuller's Butchers & Farm Shop",
+          "id": 2370641538,
+          "id_str": "2370641538",
+          "indices": [
+            66,
+            82
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user_id": 526263190,
+    "user_id_str": "526263190",
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 11,
+    "reply_count": 0,
+    "quote_count": 1,
+    "conversation_id": 1644824158876889088,
+    "conversation_id_str": "1644824158876889088",
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en",
+    "supplemental_language": null,
+    "ext_views": {
+      "state": "EnabledWithCount",
+      "count": "791"
+    },
+    "ext_edit_control": {
+      "initial": {
+        "edit_tweet_ids": [
+          "1644824158876889088"
+        ],
+        "editable_until_msecs": "1680993413000",
+        "edits_remaining": "5",
+        "is_edit_eligible": true
+      }
+    },
+    "ext": {
+      "unmentionInfo": {
+        "r": {
+          "ok": {}
+        },
+        "ttl": -1
+      },
+      "superFollowMetadata": {
+        "r": {
+          "ok": {}
+        },
+        "ttl": -1
+      },
+      "editControl": {
+        "r": {
+          "ok": {
+            "initial": {
+              "editTweetIds": [
+                "1644824158876889088"
+              ],
+              "editableUntilMsecs": "1680993413000",
+              "editsRemaining": "5",
+              "isEditEligible": true
+            }
+          }
+        },
+        "ttl": -1
+      }
+    }
+  },
+  "1642772852490539008": {
+    "created_at": "Mon Apr 03 06:15:43 +0000 2023",
+    "id": 1642772852490539008,
+    "id_str": "1642772852490539008",
+    "full_text": "@RowanIsGaming Then put the two pieces of cheese (preferably a mild cheddar) down on the first piece of bread and then put the other piece of bread, butter side up, on those. Let cook for 2 minutes and flip. The underside should just be crunchy light brown. Let the other side go about a minute.",
+    "truncated": false,
+    "display_text_range": [
+      15,
+      295
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "RowanIsGaming",
+          "name": "Rowan",
+          "id": 1529223063446822912,
+          "id_str": "1529223063446822912",
+          "indices": [
+            0,
+            14
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1642772496985501696,
+    "in_reply_to_status_id_str": "1642772496985501696",
+    "in_reply_to_user_id": 1502327470229377027,
+    "in_reply_to_user_id_str": "1502327470229377027",
+    "in_reply_to_screen_name": "SavageBruski",
+    "user_id": 1502327470229377027,
+    "user_id_str": "1502327470229377027",
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "reply_count": 1,
+    "quote_count": 0,
+    "conversation_id": 1642695838622420992,
+    "conversation_id_str": "1642695838622420992",
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en",
+    "supplemental_language": null,
+    "ext_edit_control": {
+      "initial": {
+        "edit_tweet_ids": [
+          "1642772852490539008"
+        ],
+        "editable_until_msecs": "1680504343000",
+        "edits_remaining": "5",
+        "is_edit_eligible": false
+      }
+    },
+    "ext_views": {
+      "state": "EnabledWithCount",
+      "count": "13"
+    },
+    "ext": {
+      "editControl": {
+        "r": {
+          "ok": {
+            "initial": {
+              "editTweetIds": [
+                "1642772852490539008"
+              ],
+              "editableUntilMsecs": "1680504343000",
+              "editsRemaining": "5",
+              "isEditEligible": false
+            }
+          }
+        },
+        "ttl": -1
+      },
+      "unmentionInfo": {
+        "r": {
+          "ok": {}
+        },
+        "ttl": -1
+      },
+      "superFollowMetadata": {
+        "r": {
+          "ok": {}
+        },
+        "ttl": -1
+      }
+    }
+  },
+  "1643165263167094784": {
+    "created_at": "Tue Apr 04 08:15:01 +0000 2023",
+    "id": 1643165263167094784,
+    "id_str": "1643165263167094784",
+    "full_text": "Lol, this hospital actually made me eat bread, butter, cheese and ham for dinner every night. It's not too bad, something I could get used to if I were a prisoner. But I'm used to much richer food.",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      197
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user_id": 876342319217332225,
+    "user_id_str": "876342319217332225",
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "reply_count": 0,
+    "quote_count": 0,
+    "conversation_id": 1643165263167094784,
+    "conversation_id_str": "1643165263167094784",
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en",
+    "supplemental_language": null,
+    "ext_views": {
+      "state": "EnabledWithCount",
+      "count": "371"
+    },
+    "ext_edit_control": {
+      "initial": {
+        "edit_tweet_ids": [
+          "1643165263167094784"
+        ],
+        "editable_until_msecs": "1680597901000",
+        "edits_remaining": "5",
+        "is_edit_eligible": true
+      }
+    },
+    "ext": {
+      "unmentionInfo": {
+        "r": {
+          "ok": {}
+        },
+        "ttl": -1
+      },
+      "editControl": {
+        "r": {
+          "ok": {
+            "initial": {
+              "editTweetIds": [
+                "1643165263167094784"
+              ],
+              "editableUntilMsecs": "1680597901000",
+              "editsRemaining": "5",
+              "isEditEligible": true
+            }
+          }
+        },
+        "ttl": -1
+      },
+      "superFollowMetadata": {
+        "r": {
+          "ok": {}
+        },
+        "ttl": -1
+      }
+    }
+  },
+  "1644415270868459528": {
+    "created_at": "Fri Apr 07 19:02:06 +0000 2023",
+    "id": 1644415270868459528,
+    "id_str": "1644415270868459528",
+    "full_text": "Nothing screams The Masters more than a slice of our Champion's Dinner\u26f3\ufe0f\u2060\n\u2060\nPimento cheese and bread &amp; butter pickles on a pizza??...say less! Watch this weekend at our Five Points and Olympia locations. https://t.co/sSsI2NUuow",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      207
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1644414943473672213,
+          "id_str": "1644414943473672213",
+          "indices": [
+            208,
+            231
+          ],
+          "media_url": "http://pbs.twimg.com/media/FtIirbkXoBUOwZR.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FtIirbkXoBUOwZR.jpg",
+          "url": "https://t.co/sSsI2NUuow",
+          "display_url": "pic.twitter.com/sSsI2NUuow",
+          "expanded_url": "https://twitter.com/IdiotPizza/status/1644415270868459528/photo/1",
+          "type": "photo",
+          "original_info": {
+            "width": 1366,
+            "height": 1688,
+            "focus_rects": [
+              {
+                "x": 0,
+                "y": 588,
+                "h": 765,
+                "w": 1366
+              },
+              {
+                "x": 0,
+                "y": 287,
+                "h": 1366,
+                "w": 1366
+              },
+              {
+                "x": 0,
+                "y": 131,
+                "h": 1557,
+                "w": 1366
+              },
+              {
+                "x": 295,
+                "y": 0,
+                "h": 1688,
+                "w": 844
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "h": 1688,
+                "w": 1366
+              }
+            ]
+          },
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 971,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1366,
+              "h": 1688,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 550,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1644414949144371211,
+          "id_str": "1644414949144371211",
+          "indices": [
+            208,
+            231
+          ],
+          "media_url": "http://pbs.twimg.com/media/FtIirwsXoAsTFF_.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FtIirwsXoAsTFF_.jpg",
+          "url": "https://t.co/sSsI2NUuow",
+          "display_url": "pic.twitter.com/sSsI2NUuow",
+          "expanded_url": "https://twitter.com/IdiotPizza/status/1644415270868459528/photo/1",
+          "type": "photo",
+          "original_info": {
+            "width": 1366,
+            "height": 1687,
+            "focus_rects": [
+              {
+                "x": 0,
+                "y": 81,
+                "h": 765,
+                "w": 1366
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "h": 1366,
+                "w": 1366
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "h": 1557,
+                "w": 1366
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "h": 1687,
+                "w": 844
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "h": 1687,
+                "w": 1366
+              }
+            ]
+          },
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 972,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1366,
+              "h": 1687,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 551,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1644414943473672213,
+          "id_str": "1644414943473672213",
+          "indices": [
+            208,
+            231
+          ],
+          "media_url": "http://pbs.twimg.com/media/FtIirbkXoBUOwZR.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FtIirbkXoBUOwZR.jpg",
+          "url": "https://t.co/sSsI2NUuow",
+          "display_url": "pic.twitter.com/sSsI2NUuow",
+          "expanded_url": "https://twitter.com/IdiotPizza/status/1644415270868459528/photo/1",
+          "type": "photo",
+          "original_info": {
+            "width": 1366,
+            "height": 1688,
+            "focus_rects": [
+              {
+                "x": 0,
+                "y": 588,
+                "h": 765,
+                "w": 1366
+              },
+              {
+                "x": 0,
+                "y": 287,
+                "h": 1366,
+                "w": 1366
+              },
+              {
+                "x": 0,
+                "y": 131,
+                "h": 1557,
+                "w": 1366
+              },
+              {
+                "x": 295,
+                "y": 0,
+                "h": 1688,
+                "w": 844
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "h": 1688,
+                "w": 1366
+              }
+            ]
+          },
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 971,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1366,
+              "h": 1688,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 550,
+              "h": 680,
+              "resize": "fit"
+            }
+          },
+          "media_key": "3_1644414943473672213",
+          "ext_sensitive_media_warning": null,
+          "ext_media_availability": {
+            "status": "available"
+          },
+          "ext_alt_text": null,
+          "ext_media_color": {
+            "palette": [
+              {
+                "rgb": {
+                  "red": 113,
+                  "green": 43,
+                  "blue": 4
+                },
+                "percentage": 15.12
+              },
+              {
+                "rgb": {
+                  "red": 234,
+                  "green": 126,
+                  "blue": 23
+                },
+                "percentage": 12.28
+              },
+              {
+                "rgb": {
+                  "red": 11,
+                  "green": 19,
+                  "blue": 11
+                },
+                "percentage": 11.85
+              },
+              {
+                "rgb": {
+                  "red": 211,
+                  "green": 161,
+                  "blue": 33
+                },
+                "percentage": 8.74
+              },
+              {
+                "rgb": {
+                  "red": 231,
+                  "green": 190,
+                  "blue": 138
+                },
+                "percentage": 8.58
+              }
+            ]
+          },
+          "ext": {
+            "mediaStats": {
+              "r": "Missing",
+              "ttl": -1
+            }
+          }
+        },
+        {
+          "id": 1644414949144371211,
+          "id_str": "1644414949144371211",
+          "indices": [
+            208,
+            231
+          ],
+          "media_url": "http://pbs.twimg.com/media/FtIirwsXoAsTFF_.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FtIirwsXoAsTFF_.jpg",
+          "url": "https://t.co/sSsI2NUuow",
+          "display_url": "pic.twitter.com/sSsI2NUuow",
+          "expanded_url": "https://twitter.com/IdiotPizza/status/1644415270868459528/photo/1",
+          "type": "photo",
+          "original_info": {
+            "width": 1366,
+            "height": 1687,
+            "focus_rects": [
+              {
+                "x": 0,
+                "y": 81,
+                "h": 765,
+                "w": 1366
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "h": 1366,
+                "w": 1366
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "h": 1557,
+                "w": 1366
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "h": 1687,
+                "w": 844
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "h": 1687,
+                "w": 1366
+              }
+            ]
+          },
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 972,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1366,
+              "h": 1687,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 551,
+              "h": 680,
+              "resize": "fit"
+            }
+          },
+          "media_key": "3_1644414949144371211",
+          "ext_sensitive_media_warning": null,
+          "ext_media_availability": {
+            "status": "available"
+          },
+          "ext_alt_text": null,
+          "ext_media_color": {
+            "palette": [
+              {
+                "rgb": {
+                  "red": 229,
+                  "green": 127,
+                  "blue": 19
+                },
+                "percentage": 13.36
+              },
+              {
+                "rgb": {
+                  "red": 217,
+                  "green": 166,
+                  "blue": 41
+                },
+                "percentage": 10.66
+              },
+              {
+                "rgb": {
+                  "red": 101,
+                  "green": 42,
+                  "blue": 5
+                },
+                "percentage": 10.64
+              },
+              {
+                "rgb": {
+                  "red": 208,
+                  "green": 213,
+                  "blue": 220
+                },
+                "percentage": 9.48
+              },
+              {
+                "rgb": {
+                  "red": 10,
+                  "green": 17,
+                  "blue": 9
+                },
+                "percentage": 6.27
+              }
+            ]
+          },
+          "ext": {
+            "mediaStats": {
+              "r": "Missing",
+              "ttl": -1
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://www.later.com\" rel=\"nofollow\">LaterMedia</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user_id": 43161516,
+    "user_id_str": "43161516",
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "reply_count": 0,
+    "quote_count": 0,
+    "conversation_id": 1644415270868459528,
+    "conversation_id_str": "1644415270868459528",
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "possibly_sensitive_editable": true,
+    "lang": "en",
+    "supplemental_language": null,
+    "ext_edit_control": {
+      "initial": {
+        "edit_tweet_ids": [
+          "1644415270868459528"
+        ],
+        "editable_until_msecs": "1680895926000",
+        "edits_remaining": "5",
+        "is_edit_eligible": true
+      }
+    },
+    "ext_views": {
+      "state": "EnabledWithCount",
+      "count": "283"
+    },
+    "ext": {
+      "editControl": {
+        "r": {
+          "ok": {
+            "initial": {
+              "editTweetIds": [
+                "1644415270868459528"
+              ],
+              "editableUntilMsecs": "1680895926000",
+              "editsRemaining": "5",
+              "isEditEligible": true
+            }
+          }
+        },
+        "ttl": -1
+      },
+      "unmentionInfo": {
+        "r": {
+          "ok": {}
+        },
+        "ttl": -1
+      },
+      "superFollowMetadata": {
+        "r": {
+          "ok": {}
+        },
+        "ttl": -1
+      }
+    }
+  },
+  "1643828103544963072": {
+    "created_at": "Thu Apr 06 04:08:55 +0000 2023",
+    "id": 1643828103544963072,
+    "id_str": "1643828103544963072",
+    "full_text": "@CardiganStories @Maithedane Yup! Just looking at these pics makes me want to make some \ud83d\ude02 Bread, butter and cheese are my kryptonite!",
+    "truncated": false,
+    "display_text_range": [
+      29,
+      133
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "CardiganStories",
+          "name": "The Adventures of Cardigan \ud83d\udc3b Elaine or \u0627\u064a\u0644\u0627\u0646",
+          "id": 1146137559241822208,
+          "id_str": "1146137559241822208",
+          "indices": [
+            0,
+            16
+          ]
+        },
+        {
+          "screen_name": "Maithedane",
+          "name": "MaiTheDane \ud83c\udde9\ud83c\uddf0\ud83c\uddfa\ud83c\uddf8",
+          "id": 54448088,
+          "id_str": "54448088",
+          "indices": [
+            17,
+            28
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1643822815940943872,
+    "in_reply_to_status_id_str": "1643822815940943872",
+    "in_reply_to_user_id": 1146137559241822208,
+    "in_reply_to_user_id_str": "1146137559241822208",
+    "in_reply_to_screen_name": "CardiganStories",
+    "user_id": 1237203903797547009,
+    "user_id_str": "1237203903797547009",
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "reply_count": 1,
+    "quote_count": 0,
+    "conversation_id": 1643788936878379009,
+    "conversation_id_str": "1643788936878379009",
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en",
+    "supplemental_language": null,
+    "ext_views": {
+      "state": "EnabledWithCount",
+      "count": "8"
+    },
+    "ext_edit_control": {
+      "initial": {
+        "edit_tweet_ids": [
+          "1643828103544963072"
+        ],
+        "editable_until_msecs": "1680755935000",
+        "edits_remaining": "5",
+        "is_edit_eligible": false
+      }
+    },
+    "ext": {
+      "editControl": {
+        "r": {
+          "ok": {
+            "initial": {
+              "editTweetIds": [
+                "1643828103544963072"
+              ],
+              "editableUntilMsecs": "1680755935000",
+              "editsRemaining": "5",
+              "isEditEligible": false
+            }
+          }
+        },
+        "ttl": -1
+      },
+      "superFollowMetadata": {
+        "r": {
+          "ok": {}
+        },
+        "ttl": -1
+      },
+      "unmentionInfo": {
+        "r": {
+          "ok": {}
+        },
+        "ttl": -1
+      }
+    }
+  },
+  "1642570201928433667": {
+    "created_at": "Sun Apr 02 16:50:28 +0000 2023",
+    "id": 1642570201928433667,
+    "id_str": "1642570201928433667",
+    "full_text": "Watching J*A*G Season 8, Disc 3\n\nHomemade Deli Honey Turkey &amp; Smoked Provolone Cheese Toasted Sandwich\n\nChilled Bread &amp; Butter Pickle Chips\n\nCola Soda\nMilk\n\nAh, the simple things in life!\u263a\ufe0f\n \n#JAG #Season8 #Legal #Military #Drama #TV #Show #Lunch #Happiness https://t.co/T82Srgi1xh",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      265
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "JAG",
+          "indices": [
+            200,
+            204
+          ]
+        },
+        {
+          "text": "Season8",
+          "indices": [
+            205,
+            213
+          ]
+        },
+        {
+          "text": "Legal",
+          "indices": [
+            214,
+            220
+          ]
+        },
+        {
+          "text": "Military",
+          "indices": [
+            221,
+            230
+          ]
+        },
+        {
+          "text": "Drama",
+          "indices": [
+            231,
+            237
+          ]
+        },
+        {
+          "text": "TV",
+          "indices": [
+            238,
+            241
+          ]
+        },
+        {
+          "text": "Show",
+          "indices": [
+            242,
+            247
+          ]
+        },
+        {
+          "text": "Lunch",
+          "indices": [
+            248,
+            254
+          ]
+        },
+        {
+          "text": "Happiness",
+          "indices": [
+            255,
+            265
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1642570188938780673,
+          "id_str": "1642570188938780673",
+          "indices": [
+            266,
+            289
+          ],
+          "media_url": "http://pbs.twimg.com/media/FsuU4lZXoAEz1tz.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FsuU4lZXoAEz1tz.jpg",
+          "url": "https://t.co/T82Srgi1xh",
+          "display_url": "pic.twitter.com/T82Srgi1xh",
+          "expanded_url": "https://twitter.com/BrainyRedhead/status/1642570201928433667/photo/1",
+          "type": "photo",
+          "original_info": {
+            "width": 1536,
+            "height": 2048,
+            "focus_rects": [
+              {
+                "x": 0,
+                "y": 645,
+                "h": 860,
+                "w": 1536
+              },
+              {
+                "x": 0,
+                "y": 307,
+                "h": 1536,
+                "w": 1536
+              },
+              {
+                "x": 0,
+                "y": 200,
+                "h": 1751,
+                "w": 1536
+              },
+              {
+                "x": 512,
+                "y": 0,
+                "h": 2048,
+                "w": 1024
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "h": 2048,
+                "w": 1536
+              }
+            ]
+          },
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1642570188938780673,
+          "id_str": "1642570188938780673",
+          "indices": [
+            266,
+            289
+          ],
+          "media_url": "http://pbs.twimg.com/media/FsuU4lZXoAEz1tz.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FsuU4lZXoAEz1tz.jpg",
+          "url": "https://t.co/T82Srgi1xh",
+          "display_url": "pic.twitter.com/T82Srgi1xh",
+          "expanded_url": "https://twitter.com/BrainyRedhead/status/1642570201928433667/photo/1",
+          "type": "photo",
+          "original_info": {
+            "width": 1536,
+            "height": 2048,
+            "focus_rects": [
+              {
+                "x": 0,
+                "y": 645,
+                "h": 860,
+                "w": 1536
+              },
+              {
+                "x": 0,
+                "y": 307,
+                "h": 1536,
+                "w": 1536
+              },
+              {
+                "x": 0,
+                "y": 200,
+                "h": 1751,
+                "w": 1536
+              },
+              {
+                "x": 512,
+                "y": 0,
+                "h": 2048,
+                "w": 1024
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "h": 2048,
+                "w": 1536
+              }
+            ]
+          },
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            }
+          },
+          "media_key": "3_1642570188938780673",
+          "ext_sensitive_media_warning": null,
+          "ext_media_availability": {
+            "status": "available"
+          },
+          "ext_alt_text": null,
+          "ext_media_color": {
+            "palette": [
+              {
+                "rgb": {
+                  "red": 45,
+                  "green": 45,
+                  "blue": 43
+                },
+                "percentage": 43.29
+              },
+              {
+                "rgb": {
+                  "red": 175,
+                  "green": 168,
+                  "blue": 160
+                },
+                "percentage": 25.94
+              },
+              {
+                "rgb": {
+                  "red": 171,
+                  "green": 123,
+                  "blue": 82
+                },
+                "percentage": 8.57
+              },
+              {
+                "rgb": {
+                  "red": 83,
+                  "green": 65,
+                  "blue": 31
+                },
+                "percentage": 2.08
+              },
+              {
+                "rgb": {
+                  "red": 217,
+                  "green": 191,
+                  "blue": 151
+                },
+                "percentage": 1.25
+              }
+            ]
+          },
+          "ext": {
+            "mediaStats": {
+              "r": "Missing",
+              "ttl": -1
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user_id": 145785480,
+    "user_id_str": "145785480",
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "reply_count": 1,
+    "quote_count": 0,
+    "conversation_id": 1642570201928433667,
+    "conversation_id_str": "1642570201928433667",
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "possibly_sensitive_editable": true,
+    "lang": "en",
+    "supplemental_language": null,
+    "ext_edit_control": {
+      "initial": {
+        "edit_tweet_ids": [
+          "1642570201928433667"
+        ],
+        "editable_until_msecs": "1680456028000",
+        "edits_remaining": "5",
+        "is_edit_eligible": true
+      }
+    },
+    "ext_views": {
+      "state": "EnabledWithCount",
+      "count": "57"
+    },
+    "ext": {
+      "editControl": {
+        "r": {
+          "ok": {
+            "initial": {
+              "editTweetIds": [
+                "1642570201928433667"
+              ],
+              "editableUntilMsecs": "1680456028000",
+              "editsRemaining": "5",
+              "isEditEligible": true
+            }
+          }
+        },
+        "ttl": -1
+      },
+      "unmentionInfo": {
+        "r": {
+          "ok": {}
+        },
+        "ttl": -1
+      },
+      "superFollowMetadata": {
+        "r": {
+          "ok": {}
+        },
+        "ttl": -1
+      }
+    }
+  },
+  "1644930957416312836": {
+    "created_at": "Sun Apr 09 05:11:16 +0000 2023",
+    "id": 1644930957416312836,
+    "id_str": "1644930957416312836",
+    "full_text": "@narkabamana Bread, butter, honey. \nBread, cheese.",
+    "truncated": false,
+    "display_text_range": [
+      13,
+      50
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "narkabamana",
+          "name": "Narkab Rishad Amana",
+          "id": 1505274303125860355,
+          "id_str": "1505274303125860355",
+          "indices": [
+            0,
+            12
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1644751270450790400,
+    "in_reply_to_status_id_str": "1644751270450790400",
+    "in_reply_to_user_id": 1505274303125860355,
+    "in_reply_to_user_id_str": "1505274303125860355",
+    "in_reply_to_screen_name": "narkabamana",
+    "user_id": 233147556,
+    "user_id_str": "233147556",
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "reply_count": 0,
+    "quote_count": 0,
+    "conversation_id": 1644751270450790400,
+    "conversation_id_str": "1644751270450790400",
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en",
+    "supplemental_language": null,
+    "ext_edit_control": {
+      "initial": {
+        "edit_tweet_ids": [
+          "1644930957416312836"
+        ],
+        "editable_until_msecs": "1681018876000",
+        "edits_remaining": "5",
+        "is_edit_eligible": false
+      }
+    },
+    "ext_views": {
+      "state": "EnabledWithCount",
+      "count": "15"
+    },
+    "ext": {
+      "editControl": {
+        "r": {
+          "ok": {
+            "initial": {
+              "editTweetIds": [
+                "1644930957416312836"
+              ],
+              "editableUntilMsecs": "1681018876000",
+              "editsRemaining": "5",
+              "isEditEligible": false
+            }
+          }
+        },
+        "ttl": -1
+      },
+      "superFollowMetadata": {
+        "r": {
+          "ok": {}
+        },
+        "ttl": -1
+      },
+      "unmentionInfo": {
+        "r": {
+          "ok": {}
+        },
+        "ttl": -1
+      }
+    }
+  },
+  "1644393461750038562": {
+    "created_at": "Fri Apr 07 17:35:27 +0000 2023",
+    "id": 1644393461750038562,
+    "id_str": "1644393461750038562",
+    "full_text": "@Normanjam671 Ever heard of butties. Night before you travel you take two slices of bread butter them right to the edges put in cheese or something you like stick em together and pack em in food bag or coolbag. Lunch on the move. Bananas are good too.",
+    "truncated": false,
+    "display_text_range": [
+      14,
+      251
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Normanjam671",
+          "name": "Sir Norman of Nowhere, KBE, CSE.\ud83c\udff4\u200d\u2620\ufe0f",
+          "id": 1331215753324978182,
+          "id_str": "1331215753324978182",
+          "indices": [
+            0,
+            13
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1643900880922595330,
+    "in_reply_to_status_id_str": "1643900880922595330",
+    "in_reply_to_user_id": 1331215753324978182,
+    "in_reply_to_user_id_str": "1331215753324978182",
+    "in_reply_to_screen_name": "Normanjam671",
+    "user_id": 757633692516945920,
+    "user_id_str": "757633692516945920",
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "reply_count": 0,
+    "quote_count": 0,
+    "conversation_id": 1643900880922595330,
+    "conversation_id_str": "1643900880922595330",
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en",
+    "supplemental_language": null,
+    "ext_views": {
+      "state": "EnabledWithCount",
+      "count": "5"
+    },
+    "ext_edit_control": {
+      "initial": {
+        "edit_tweet_ids": [
+          "1644393461750038562"
+        ],
+        "editable_until_msecs": "1680890727000",
+        "edits_remaining": "5",
+        "is_edit_eligible": false
+      }
+    },
+    "ext": {
+      "unmentionInfo": {
+        "r": {
+          "ok": {}
+        },
+        "ttl": -1
+      },
+      "superFollowMetadata": {
+        "r": {
+          "ok": {}
+        },
+        "ttl": -1
+      },
+      "editControl": {
+        "r": {
+          "ok": {
+            "initial": {
+              "editTweetIds": [
+                "1644393461750038562"
+              ],
+              "editableUntilMsecs": "1680890727000",
+              "editsRemaining": "5",
+              "isEditEligible": false
+            }
+          }
+        },
+        "ttl": -1
+      }
+    }
+  },
+  "1643896006705070081": {
+    "created_at": "Thu Apr 06 08:38:44 +0000 2023",
+    "id": 1643896006705070081,
+    "id_str": "1643896006705070081",
+    "full_text": "@Scorpio_Karen18 Toast the bread, butter well with real butter, sprinkle sliced baby tomatoes and chillis. Place thick cut quality cheese and grill till melted. Add chilli and tomato pickle on top.",
+    "truncated": false,
+    "display_text_range": [
+      17,
+      197
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Scorpio_Karen18",
+          "name": "Karen \ud83c\udde8\ud83c\udde6",
+          "id": 1333441330111016961,
+          "id_str": "1333441330111016961",
+          "indices": [
+            0,
+            16
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_status_id": 1643774932260896769,
+    "in_reply_to_status_id_str": "1643774932260896769",
+    "in_reply_to_user_id": 1333441330111016961,
+    "in_reply_to_user_id_str": "1333441330111016961",
+    "in_reply_to_screen_name": "Scorpio_Karen18",
+    "user_id": 2158577732,
+    "user_id_str": "2158577732",
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "reply_count": 0,
+    "quote_count": 0,
+    "conversation_id": 1643774932260896769,
+    "conversation_id_str": "1643774932260896769",
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en",
+    "supplemental_language": null,
+    "ext_edit_control": {
+      "initial": {
+        "edit_tweet_ids": [
+          "1643896006705070081"
+        ],
+        "editable_until_msecs": "1680772124000",
+        "edits_remaining": "5",
+        "is_edit_eligible": false
+      }
+    },
+    "ext_views": {
+      "state": "EnabledWithCount",
+      "count": "21"
+    },
+    "ext": {
+      "editControl": {
+        "r": {
+          "ok": {
+            "initial": {
+              "editTweetIds": [
+                "1643896006705070081"
+              ],
+              "editableUntilMsecs": "1680772124000",
+              "editsRemaining": "5",
+              "isEditEligible": false
+            }
+          }
+        },
+        "ttl": -1
+      },
+      "superFollowMetadata": {
+        "r": {
+          "ok": {}
+        },
+        "ttl": -1
+      },
+      "unmentionInfo": {
+        "r": {
+          "ok": {}
+        },
+        "ttl": -1
+      }
+    }
+  },
+  "1642582578799493122": {
+    "created_at": "Sun Apr 02 17:39:39 +0000 2023",
+    "id": 1642582578799493122,
+    "id_str": "1642582578799493122",
+    "full_text": "sandwich shapes \n\u2014 \ud83e\udd6a\n\u2022 two slices of bread\n\u2022 butter (optional)\n\u2022 any filling (chicken, cheese, ham, nutella, pb &amp; j, etc)\n\u2022 cookie cutter\n\nmake a sandwich however you want, use the cookie cutter to cut into it and get rid of the crusts https://t.co/87cUpgD3bY",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      239
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1642582573086801924,
+          "id_str": "1642582573086801924",
+          "indices": [
+            240,
+            263
+          ],
+          "media_url": "http://pbs.twimg.com/media/FsugJb8WAAQYMe3.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FsugJb8WAAQYMe3.jpg",
+          "url": "https://t.co/87cUpgD3bY",
+          "display_url": "pic.twitter.com/87cUpgD3bY",
+          "expanded_url": "https://twitter.com/D0llSIZED/status/1642582578799493122/photo/1",
+          "type": "photo",
+          "original_info": {
+            "width": 473,
+            "height": 710,
+            "focus_rects": [
+              {
+                "x": 0,
+                "y": 205,
+                "h": 265,
+                "w": 473
+              },
+              {
+                "x": 0,
+                "y": 101,
+                "h": 473,
+                "w": 473
+              },
+              {
+                "x": 0,
+                "y": 68,
+                "h": 539,
+                "w": 473
+              },
+              {
+                "x": 18,
+                "y": 0,
+                "h": 710,
+                "w": 355
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "h": 710,
+                "w": 473
+              }
+            ]
+          },
+          "sizes": {
+            "large": {
+              "w": 473,
+              "h": 710,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 453,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 473,
+              "h": 710,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1642582573086920704,
+          "id_str": "1642582573086920704",
+          "indices": [
+            240,
+            263
+          ],
+          "media_url": "http://pbs.twimg.com/media/FsugJb8X0AAwDuX.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FsugJb8X0AAwDuX.jpg",
+          "url": "https://t.co/87cUpgD3bY",
+          "display_url": "pic.twitter.com/87cUpgD3bY",
+          "expanded_url": "https://twitter.com/D0llSIZED/status/1642582578799493122/photo/1",
+          "type": "photo",
+          "original_info": {
+            "width": 564,
+            "height": 564,
+            "focus_rects": [
+              {
+                "x": 0,
+                "y": 248,
+                "h": 316,
+                "w": 564
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "h": 564,
+                "w": 564
+              },
+              {
+                "x": 69,
+                "y": 0,
+                "h": 564,
+                "w": 495
+              },
+              {
+                "x": 239,
+                "y": 0,
+                "h": 564,
+                "w": 282
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "h": 564,
+                "w": 564
+              }
+            ]
+          },
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 564,
+              "h": 564,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 564,
+              "h": 564,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 564,
+              "h": 564,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1642582573086801924,
+          "id_str": "1642582573086801924",
+          "indices": [
+            240,
+            263
+          ],
+          "media_url": "http://pbs.twimg.com/media/FsugJb8WAAQYMe3.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FsugJb8WAAQYMe3.jpg",
+          "url": "https://t.co/87cUpgD3bY",
+          "display_url": "pic.twitter.com/87cUpgD3bY",
+          "expanded_url": "https://twitter.com/D0llSIZED/status/1642582578799493122/photo/1",
+          "type": "photo",
+          "original_info": {
+            "width": 473,
+            "height": 710,
+            "focus_rects": [
+              {
+                "x": 0,
+                "y": 205,
+                "h": 265,
+                "w": 473
+              },
+              {
+                "x": 0,
+                "y": 101,
+                "h": 473,
+                "w": 473
+              },
+              {
+                "x": 0,
+                "y": 68,
+                "h": 539,
+                "w": 473
+              },
+              {
+                "x": 18,
+                "y": 0,
+                "h": 710,
+                "w": 355
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "h": 710,
+                "w": 473
+              }
+            ]
+          },
+          "sizes": {
+            "large": {
+              "w": 473,
+              "h": 710,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 453,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 473,
+              "h": 710,
+              "resize": "fit"
+            }
+          },
+          "media_key": "3_1642582573086801924",
+          "ext_sensitive_media_warning": null,
+          "ext_media_availability": {
+            "status": "available"
+          },
+          "ext_alt_text": "heart shaped sandwiches in a circle with a pink rose in the middle",
+          "ext_media_color": {
+            "palette": [
+              {
+                "rgb": {
+                  "red": 228,
+                  "green": 217,
+                  "blue": 222
+                },
+                "percentage": 78.52
+              },
+              {
+                "rgb": {
+                  "red": 193,
+                  "green": 122,
+                  "blue": 131
+                },
+                "percentage": 8.61
+              },
+              {
+                "rgb": {
+                  "red": 177,
+                  "green": 132,
+                  "blue": 137
+                },
+                "percentage": 4.44
+              },
+              {
+                "rgb": {
+                  "red": 236,
+                  "green": 241,
+                  "blue": 235
+                },
+                "percentage": 3.22
+              },
+              {
+                "rgb": {
+                  "red": 164,
+                  "green": 60,
+                  "blue": 60
+                },
+                "percentage": 2.55
+              }
+            ]
+          },
+          "ext": {
+            "mediaStats": {
+              "r": "Missing",
+              "ttl": -1
+            }
+          }
+        },
+        {
+          "id": 1642582573086920704,
+          "id_str": "1642582573086920704",
+          "indices": [
+            240,
+            263
+          ],
+          "media_url": "http://pbs.twimg.com/media/FsugJb8X0AAwDuX.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FsugJb8X0AAwDuX.jpg",
+          "url": "https://t.co/87cUpgD3bY",
+          "display_url": "pic.twitter.com/87cUpgD3bY",
+          "expanded_url": "https://twitter.com/D0llSIZED/status/1642582578799493122/photo/1",
+          "type": "photo",
+          "original_info": {
+            "width": 564,
+            "height": 564,
+            "focus_rects": [
+              {
+                "x": 0,
+                "y": 248,
+                "h": 316,
+                "w": 564
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "h": 564,
+                "w": 564
+              },
+              {
+                "x": 69,
+                "y": 0,
+                "h": 564,
+                "w": 495
+              },
+              {
+                "x": 239,
+                "y": 0,
+                "h": 564,
+                "w": 282
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "h": 564,
+                "w": 564
+              }
+            ]
+          },
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 564,
+              "h": 564,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 564,
+              "h": 564,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 564,
+              "h": 564,
+              "resize": "fit"
+            }
+          },
+          "media_key": "3_1642582573086920704",
+          "ext_sensitive_media_warning": null,
+          "ext_media_availability": {
+            "status": "available"
+          },
+          "ext_alt_text": "pink picnic blanket on a field, some tulips, cups, a heart shaped plate, a stool, cups & picnic basket",
+          "ext_media_color": {
+            "palette": [
+              {
+                "rgb": {
+                  "red": 213,
+                  "green": 192,
+                  "blue": 191
+                },
+                "percentage": 43.52
+              },
+              {
+                "rgb": {
+                  "red": 173,
+                  "green": 150,
+                  "blue": 100
+                },
+                "percentage": 34.65
+              },
+              {
+                "rgb": {
+                  "red": 143,
+                  "green": 148,
+                  "blue": 89
+                },
+                "percentage": 12.59
+              },
+              {
+                "rgb": {
+                  "red": 189,
+                  "green": 174,
+                  "blue": 85
+                },
+                "percentage": 3.07
+              },
+              {
+                "rgb": {
+                  "red": 186,
+                  "green": 184,
+                  "blue": 206
+                },
+                "percentage": 2.32
+              }
+            ]
+          },
+          "ext": {
+            "mediaStats": {
+              "r": "Missing",
+              "ttl": -1
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1642582570347945986,
+    "in_reply_to_status_id_str": "1642582570347945986",
+    "in_reply_to_user_id": 1633304728409980928,
+    "in_reply_to_user_id_str": "1633304728409980928",
+    "in_reply_to_screen_name": "D0llSIZED",
+    "user_id": 1633304728409980928,
+    "user_id_str": "1633304728409980928",
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 9,
+    "reply_count": 1,
+    "quote_count": 0,
+    "conversation_id": 1642582541315067904,
+    "conversation_id_str": "1642582541315067904",
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "possibly_sensitive_editable": true,
+    "lang": "en",
+    "supplemental_language": null,
+    "self_thread": {
+      "id": 1642582541315067904,
+      "id_str": "1642582541315067904"
+    },
+    "ext_views": {
+      "state": "EnabledWithCount",
+      "count": "484"
+    },
+    "ext_edit_control": {
+      "initial": {
+        "edit_tweet_ids": [
+          "1642582578799493122"
+        ],
+        "editable_until_msecs": "1680458979000",
+        "edits_remaining": "5",
+        "is_edit_eligible": false
+      }
+    },
+    "ext": {
+      "unmentionInfo": {
+        "r": {
+          "ok": {}
+        },
+        "ttl": -1
+      },
+      "superFollowMetadata": {
+        "r": {
+          "ok": {}
+        },
+        "ttl": -1
+      },
+      "editControl": {
+        "r": {
+          "ok": {
+            "initial": {
+              "editTweetIds": [
+                "1642582578799493122"
+              ],
+              "editableUntilMsecs": "1680458979000",
+              "editsRemaining": "5",
+              "isEditEligible": false
+            }
+          }
+        },
+        "ttl": -1
+      }
+    }
+  },
+  "1645799066180419585": {
+    "created_at": "Tue Apr 11 14:40:49 +0000 2023",
+    "id": 1645799066180419585,
+    "id_str": "1645799066180419585",
+    "full_text": "@nutrition_facts @benshapiro The accompanying photo shows the poor little egg on top of a heaping sandwich with sausage patty, bacon, bread, butter, and cheese.  I'd say that's unfairly prejudicial.",
+    "truncated": false,
+    "display_text_range": [
+      29,
+      198
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "nutrition_facts",
+          "name": "Michael Greger, M.D.",
+          "id": 275471220,
+          "id_str": "275471220",
+          "indices": [
+            0,
+            16
+          ]
+        },
+        {
+          "screen_name": "benshapiro",
+          "name": "Ben Shapiro",
+          "id": 17995040,
+          "id_str": "17995040",
+          "indices": [
+            17,
+            28
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1645124476055568384,
+    "in_reply_to_status_id_str": "1645124476055568384",
+    "in_reply_to_user_id": 275471220,
+    "in_reply_to_user_id_str": "275471220",
+    "in_reply_to_screen_name": "nutrition_facts",
+    "user_id": 1589709592967118849,
+    "user_id_str": "1589709592967118849",
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "reply_count": 0,
+    "quote_count": 0,
+    "conversation_id": 1645124476055568384,
+    "conversation_id_str": "1645124476055568384",
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en",
+    "supplemental_language": null,
+    "ext_views": {
+      "state": "EnabledWithCount",
+      "count": "3"
+    },
+    "ext_edit_control": {
+      "initial": {
+        "edit_tweet_ids": [
+          "1645799066180419585"
+        ],
+        "editable_until_msecs": "1681225849000",
+        "edits_remaining": "5",
+        "is_edit_eligible": false
+      }
+    },
+    "ext": {
+      "superFollowMetadata": {
+        "r": {
+          "ok": {}
+        },
+        "ttl": -1
+      },
+      "editControl": {
+        "r": {
+          "ok": {
+            "initial": {
+              "editTweetIds": [
+                "1645799066180419585"
+              ],
+              "editableUntilMsecs": "1681225849000",
+              "editsRemaining": "5",
+              "isEditEligible": false
+            }
+          }
+        },
+        "ttl": -1
+      },
+      "unmentionInfo": {
+        "r": {
+          "ok": {}
+        },
+        "ttl": -1
+      }
+    }
+  },
+  "1642634986309275648": {
+    "created_at": "Sun Apr 02 21:07:54 +0000 2023",
+    "id": 1642634986309275648,
+    "id_str": "1642634986309275648",
+    "full_text": "@TheJoshTakeOver She can get lots of bread, butter, and cheese with 19k. She can even afford good deli cheese that melts with that money.",
+    "truncated": false,
+    "display_text_range": [
+      17,
+      137
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "TheJoshTakeOver",
+          "name": "Josh the Destroyer",
+          "id": 1469517264751939587,
+          "id_str": "1469517264751939587",
+          "indices": [
+            0,
+            16
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1642634524747087872,
+    "in_reply_to_status_id_str": "1642634524747087872",
+    "in_reply_to_user_id": 1469517264751939587,
+    "in_reply_to_user_id_str": "1469517264751939587",
+    "in_reply_to_screen_name": "TheJoshTakeOver",
+    "user_id": 512748332,
+    "user_id_str": "512748332",
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "reply_count": 1,
+    "quote_count": 0,
+    "conversation_id": 1642546353988423680,
+    "conversation_id_str": "1642546353988423680",
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en",
+    "supplemental_language": null,
+    "ext_edit_control": {
+      "initial": {
+        "edit_tweet_ids": [
+          "1642634986309275648"
+        ],
+        "editable_until_msecs": "1680471474000",
+        "edits_remaining": "5",
+        "is_edit_eligible": false
+      }
+    },
+    "ext_views": {
+      "state": "EnabledWithCount",
+      "count": "131"
+    },
+    "ext": {
+      "superFollowMetadata": {
+        "r": {
+          "ok": {}
+        },
+        "ttl": -1
+      },
+      "unmentionInfo": {
+        "r": {
+          "ok": {}
+        },
+        "ttl": -1
+      },
+      "editControl": {
+        "r": {
+          "ok": {
+            "initial": {
+              "editTweetIds": [
+                "1642634986309275648"
+              ],
+              "editableUntilMsecs": "1680471474000",
+              "editsRemaining": "5",
+              "isEditEligible": false
+            }
+          }
+        },
+        "ttl": -1
+      }
+    }
+  },
+  "1642922847655034881": {
+    "created_at": "Mon Apr 03 16:11:45 +0000 2023",
+    "id": 1642922847655034881,
+    "id_str": "1642922847655034881",
+    "full_text": "I gorge myself on pumpernickel bread butter cheese milk onion yes i am well-lubricated viking now",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      97
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user_id": 1640760660928921602,
+    "user_id_str": "1640760660928921602",
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "reply_count": 0,
+    "quote_count": 0,
+    "conversation_id": 1642922847655034881,
+    "conversation_id_str": "1642922847655034881",
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en",
+    "supplemental_language": null,
+    "ext_views": {
+      "state": "EnabledWithCount",
+      "count": "38"
+    },
+    "ext_edit_control": {
+      "initial": {
+        "edit_tweet_ids": [
+          "1642922847655034881"
+        ],
+        "editable_until_msecs": "1680540105000",
+        "edits_remaining": "5",
+        "is_edit_eligible": true
+      }
+    },
+    "ext": {
+      "editControl": {
+        "r": {
+          "ok": {
+            "initial": {
+              "editTweetIds": [
+                "1642922847655034881"
+              ],
+              "editableUntilMsecs": "1680540105000",
+              "editsRemaining": "5",
+              "isEditEligible": true
+            }
+          }
+        },
+        "ttl": -1
+      },
+      "superFollowMetadata": {
+        "r": {
+          "ok": {}
+        },
+        "ttl": -1
+      },
+      "unmentionInfo": {
+        "r": {
+          "ok": {}
+        },
+        "ttl": -1
+      }
+    }
+  },
+  "1645314601150717952": {
+    "created_at": "Mon Apr 10 06:35:44 +0000 2023",
+    "id": 1645314601150717952,
+    "id_str": "1645314601150717952",
+    "full_text": "@BiggusMilk I take some bread, butter, cheese, maybe some cucumber or a tomato, and put it all together, maybe toast the bread, at work. Mayo is also nice to add",
+    "truncated": false,
+    "display_text_range": [
+      12,
+      161
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "BiggusMilk",
+          "name": "Hana Pera Aoake \u0647\u064e\u0646\u0627\u0621",
+          "id": 1546458268188688384,
+          "id_str": "1546458268188688384",
+          "indices": [
+            0,
+            11
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1645293329708613633,
+    "in_reply_to_status_id_str": "1645293329708613633",
+    "in_reply_to_user_id": 1546458268188688384,
+    "in_reply_to_user_id_str": "1546458268188688384",
+    "in_reply_to_screen_name": "BiggusMilk",
+    "user_id": 744034262,
+    "user_id_str": "744034262",
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "reply_count": 0,
+    "quote_count": 0,
+    "conversation_id": 1645293329708613633,
+    "conversation_id_str": "1645293329708613633",
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en",
+    "supplemental_language": null,
+    "ext_edit_control": {
+      "initial": {
+        "edit_tweet_ids": [
+          "1645314601150717952"
+        ],
+        "editable_until_msecs": "1681110344000",
+        "edits_remaining": "5",
+        "is_edit_eligible": false
+      }
+    },
+    "ext_views": {
+      "state": "EnabledWithCount",
+      "count": "73"
+    },
+    "ext": {
+      "unmentionInfo": {
+        "r": {
+          "ok": {}
+        },
+        "ttl": -1
+      },
+      "editControl": {
+        "r": {
+          "ok": {
+            "initial": {
+              "editTweetIds": [
+                "1645314601150717952"
+              ],
+              "editableUntilMsecs": "1681110344000",
+              "editsRemaining": "5",
+              "isEditEligible": false
+            }
+          }
+        },
+        "ttl": -1
+      },
+      "superFollowMetadata": {
+        "r": {
+          "ok": {}
+        },
+        "ttl": -1
+      }
+    }
+  },
+  "1644762764064309250": {
+    "created_at": "Sat Apr 08 18:02:55 +0000 2023",
+    "id": 1644762764064309250,
+    "id_str": "1644762764064309250",
+    "full_text": "@larriefuckery Like a sandwich includes some sort of sauce and vegetables but a Stulle is just plain bread butter and cheese or sliced meat and it's meant to take away while you can eat a sandwich for lunch or buy jt somewhere",
+    "truncated": false,
+    "display_text_range": [
+      15,
+      226
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "larriefuckery",
+          "name": "Renata \ud83e\udddc\ud83c\udffb\u200d\u2640\ufe0f Ro's uce",
+          "id": 1138035544636702720,
+          "id_str": "1138035544636702720",
+          "indices": [
+            0,
+            14
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1644762492290187272,
+    "in_reply_to_status_id_str": "1644762492290187272",
+    "in_reply_to_user_id": 2961016672,
+    "in_reply_to_user_id_str": "2961016672",
+    "in_reply_to_screen_name": "ducklingrry",
+    "user_id": 2961016672,
+    "user_id_str": "2961016672",
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "reply_count": 0,
+    "quote_count": 0,
+    "conversation_id": 1644761148183527424,
+    "conversation_id_str": "1644761148183527424",
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en",
+    "supplemental_language": null,
+    "ext_views": {
+      "state": "EnabledWithCount",
+      "count": "19"
+    },
+    "ext_edit_control": {
+      "initial": {
+        "edit_tweet_ids": [
+          "1644762764064309250"
+        ],
+        "editable_until_msecs": "1680978775000",
+        "edits_remaining": "5",
+        "is_edit_eligible": false
+      }
+    },
+    "ext": {
+      "editControl": {
+        "r": {
+          "ok": {
+            "initial": {
+              "editTweetIds": [
+                "1644762764064309250"
+              ],
+              "editableUntilMsecs": "1680978775000",
+              "editsRemaining": "5",
+              "isEditEligible": false
+            }
+          }
+        },
+        "ttl": -1
+      },
+      "unmentionInfo": {
+        "r": {
+          "ok": {}
+        },
+        "ttl": -1
+      },
+      "superFollowMetadata": {
+        "r": {
+          "ok": {}
+        },
+        "ttl": -1
+      }
+    }
+  }
+}

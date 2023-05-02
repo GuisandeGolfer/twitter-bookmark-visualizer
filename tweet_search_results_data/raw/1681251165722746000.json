@@ -1,0 +1,575 @@
+{
+    "globalObjects": {
+        "tweets": {
+            "1642557768484761603": {
+                "created_at": "Sun Apr 02 16:01:03 +0000 2023",
+                "id": 1642557768484761603,
+                "id_str": "1642557768484761603",
+                "full_text": "Day 11 \nsuhoor:a childhood meal I haven\u2019t eaten in years bread butter milk in a bowl (414/21.5) \niftar: date , egg , bread , cheese , muttabal (417/34.5) \nSnack: whey , pineapple , last 50ml of oatmilk (232/14.7)\ntotal : 1063 cals &amp; 70.7 grams of protein \ud83d\udc4e\ud83c\udffb",
+                "truncated": false,
+                "display_text_range": [
+                    0,
+                    261
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": 1642227258453639168,
+                "in_reply_to_status_id_str": "1642227258453639168",
+                "in_reply_to_user_id": 1625503404520009731,
+                "in_reply_to_user_id_str": "1625503404520009731",
+                "in_reply_to_screen_name": "rebirevomeem",
+                "user_id": 1625503404520009731,
+                "user_id_str": "1625503404520009731",
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 0,
+                "favorite_count": 0,
+                "reply_count": 1,
+                "quote_count": 0,
+                "conversation_id": 1638795175538335747,
+                "conversation_id_str": "1638795175538335747",
+                "favorited": false,
+                "retweeted": false,
+                "lang": "en",
+                "supplemental_language": null,
+                "self_thread": {
+                    "id": 1638795175538335747,
+                    "id_str": "1638795175538335747"
+                },
+                "ext_edit_control": {
+                    "initial": {
+                        "edit_tweet_ids": [
+                            "1642557768484761603"
+                        ],
+                        "editable_until_msecs": "1680453063000",
+                        "edits_remaining": "5",
+                        "is_edit_eligible": false
+                    }
+                },
+                "ext_views": {
+                    "state": "EnabledWithCount",
+                    "count": "100"
+                },
+                "ext": {
+                    "editControl": {
+                        "r": {
+                            "ok": {
+                                "initial": {
+                                    "editTweetIds": [
+                                        "1642557768484761603"
+                                    ],
+                                    "editableUntilMsecs": "1680453063000",
+                                    "editsRemaining": "5",
+                                    "isEditEligible": false
+                                }
+                            }
+                        },
+                        "ttl": -1
+                    },
+                    "superFollowMetadata": {
+                        "r": {
+                            "ok": {}
+                        },
+                        "ttl": -1
+                    },
+                    "unmentionInfo": {
+                        "r": {
+                            "ok": {}
+                        },
+                        "ttl": -1
+                    }
+                }
+            },
+            "1642647273501859840": {
+                "created_at": "Sun Apr 02 21:56:43 +0000 2023",
+                "id": 1642647273501859840,
+                "id_str": "1642647273501859840",
+                "full_text": "@elsashowergel bread butter cheese or ham idk maybe some jam and some veggies and fruit",
+                "truncated": false,
+                "display_text_range": [
+                    15,
+                    87
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "elsashowergel",
+                            "name": "taz \ud83c\udf53\ud83d\udd6f",
+                            "id": 1502619778661425154,
+                            "id_str": "1502619778661425154",
+                            "indices": [
+                                0,
+                                14
+                            ]
+                        }
+                    ],
+                    "urls": []
+                },
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "in_reply_to_status_id": 1642646994375065612,
+                "in_reply_to_status_id_str": "1642646994375065612",
+                "in_reply_to_user_id": 1502619778661425154,
+                "in_reply_to_user_id_str": "1502619778661425154",
+                "in_reply_to_screen_name": "elsashowergel",
+                "user_id": 1635737012174028808,
+                "user_id_str": "1635737012174028808",
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 0,
+                "favorite_count": 1,
+                "reply_count": 1,
+                "quote_count": 0,
+                "conversation_id": 1642646994375065612,
+                "conversation_id_str": "1642646994375065612",
+                "favorited": false,
+                "retweeted": false,
+                "lang": "en",
+                "supplemental_language": null,
+                "ext_views": {
+                    "state": "EnabledWithCount",
+                    "count": "169"
+                },
+                "ext_edit_control": {
+                    "initial": {
+                        "edit_tweet_ids": [
+                            "1642647273501859840"
+                        ],
+                        "editable_until_msecs": "1680474403000",
+                        "edits_remaining": "5",
+                        "is_edit_eligible": false
+                    }
+                },
+                "ext": {
+                    "unmentionInfo": {
+                        "r": {
+                            "ok": {}
+                        },
+                        "ttl": -1
+                    },
+                    "editControl": {
+                        "r": {
+                            "ok": {
+                                "initial": {
+                                    "editTweetIds": [
+                                        "1642647273501859840"
+                                    ],
+                                    "editableUntilMsecs": "1680474403000",
+                                    "editsRemaining": "5",
+                                    "isEditEligible": false
+                                }
+                            }
+                        },
+                        "ttl": -1
+                    },
+                    "superFollowMetadata": {
+                        "r": {
+                            "ok": {}
+                        },
+                        "ttl": -1
+                    }
+                }
+            }
+        },
+        "users": {
+            "1625503404520009731": {
+                "id": 1625503404520009731,
+                "id_str": "1625503404520009731",
+                "name": "meme",
+                "screen_name": "rebirevomeem",
+                "location": "",
+                "description": "hello",
+                "url": "https://t.co/ndDvWskMQP",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/ndDvWskMQP",
+                                "expanded_url": "https://curiouscat.me/rebirevomeem",
+                                "display_url": "curiouscat.me/rebirevomeem",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 25,
+                "fast_followers_count": 0,
+                "normal_followers_count": 25,
+                "friends_count": 70,
+                "listed_count": 0,
+                "created_at": "Tue Feb 14 14:33:39 +0000 2023",
+                "favourites_count": 160,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 433,
+                "media_count": 43,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1625503716718829569/amPtcAgG_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1625503716718829569/amPtcAgG_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "pinned_tweet_ids": [
+                    1638795175538335747
+                ],
+                "pinned_tweet_ids_str": [
+                    "1638795175538335747"
+                ],
+                "has_custom_timelines": true,
+                "can_dm": null,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "muting": null,
+                "blocking": null,
+                "blocked_by": null,
+                "want_retweets": null,
+                "advertiser_account_type": "none",
+                "advertiser_account_service_levels": [],
+                "profile_interstitial_type": "",
+                "business_profile_state": "none",
+                "translator_type": "none",
+                "withheld_in_countries": [],
+                "followed_by": null,
+                "ext_has_nft_avatar": false,
+                "ext_is_blue_verified": false,
+                "ext": {
+                    "hasNftAvatar": {
+                        "r": {
+                            "ok": false
+                        },
+                        "ttl": -1
+                    },
+                    "superFollowMetadata": {
+                        "r": {
+                            "ok": {
+                                "superFollowEligible": false,
+                                "superFollowing": false,
+                                "superFollowedBy": false,
+                                "exclusiveTweetFollowing": false,
+                                "privateSuperFollowing": false
+                            }
+                        },
+                        "ttl": -1
+                    },
+                    "highlightedLabel": {
+                        "r": {
+                            "ok": {}
+                        },
+                        "ttl": -1
+                    }
+                },
+                "require_some_consent": false
+            },
+            "1635737012174028808": {
+                "id": 1635737012174028808,
+                "id_str": "1635737012174028808",
+                "name": "dunya | edtwt",
+                "screen_name": "1rondef1ciency",
+                "location": "they/he \ud83c\uddf5\ud83c\uddf1",
+                "description": "@1rondeficiency 's backup | bmi: 14.2 | tw sh as well",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 38,
+                "fast_followers_count": 0,
+                "normal_followers_count": 38,
+                "friends_count": 45,
+                "listed_count": 0,
+                "created_at": "Tue Mar 14 20:17:57 +0000 2023",
+                "favourites_count": 1064,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 292,
+                "media_count": 29,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1635737702443221031/ejuHj78b_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1635737702443221031/ejuHj78b_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1635737012174028808/1678825244",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "pinned_tweet_ids": [
+                    1635738285749182464
+                ],
+                "pinned_tweet_ids_str": [
+                    "1635738285749182464"
+                ],
+                "has_custom_timelines": true,
+                "can_dm": null,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "muting": null,
+                "blocking": null,
+                "blocked_by": null,
+                "want_retweets": null,
+                "advertiser_account_type": "none",
+                "advertiser_account_service_levels": [],
+                "profile_interstitial_type": "",
+                "business_profile_state": "none",
+                "translator_type": "none",
+                "withheld_in_countries": [],
+                "followed_by": null,
+                "ext_is_blue_verified": false,
+                "ext_has_nft_avatar": false,
+                "ext": {
+                    "superFollowMetadata": {
+                        "r": {
+                            "ok": {
+                                "superFollowEligible": false,
+                                "superFollowing": false,
+                                "superFollowedBy": false,
+                                "exclusiveTweetFollowing": false,
+                                "privateSuperFollowing": false
+                            }
+                        },
+                        "ttl": -1
+                    },
+                    "highlightedLabel": {
+                        "r": {
+                            "ok": {}
+                        },
+                        "ttl": -1
+                    },
+                    "hasNftAvatar": {
+                        "r": {
+                            "ok": false
+                        },
+                        "ttl": -1
+                    }
+                },
+                "require_some_consent": false
+            }
+        },
+        "moments": {},
+        "cards": {},
+        "places": {},
+        "media": {},
+        "broadcasts": {},
+        "topics": {},
+        "lists": {}
+    },
+    "timeline": {
+        "id": "TopTabSrpProduct-Timeline",
+        "instructions": [
+            {
+                "addEntries": {
+                    "entries": [
+                        {
+                            "entryId": "tweet-1642647273501859840",
+                            "sortIndex": "1645912792575750624",
+                            "content": {
+                                "item": {
+                                    "content": {
+                                        "tweet": {
+                                            "id": "1642647273501859840",
+                                            "displayType": "Tweet",
+                                            "highlights": {
+                                                "textHighlights": [
+                                                    {
+                                                        "startIndex": 15,
+                                                        "endIndex": 27
+                                                    },
+                                                    {
+                                                        "startIndex": 28,
+                                                        "endIndex": 34
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    },
+                                    "clientEventInfo": {
+                                        "component": "result",
+                                        "element": "tweet",
+                                        "details": {
+                                            "timelinesDetails": {
+                                                "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAIACAAAAwAAgoAAQAAAAAAAAABCgAC3lR6rCxm4qsLAAMAAAATY2hlZXNlIGJyZWFkIGJ1dHRlcgoABRnkvJlyYQlBCAAGAAAAAQoABybJQrsSejseAAAAAAA="
+                                            }
+                                        }
+                                    },
+                                    "feedbackInfo": {
+                                        "feedbackKeys": [
+                                            "-1300854028"
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "entryId": "tweet-1642557768484761603",
+                            "sortIndex": "1645912792575750614",
+                            "content": {
+                                "item": {
+                                    "content": {
+                                        "tweet": {
+                                            "id": "1642557768484761603",
+                                            "displayType": "Tweet",
+                                            "highlights": {
+                                                "textHighlights": [
+                                                    {
+                                                        "startIndex": 57,
+                                                        "endIndex": 69
+                                                    },
+                                                    {
+                                                        "startIndex": 125,
+                                                        "endIndex": 131
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    },
+                                    "clientEventInfo": {
+                                        "component": "result",
+                                        "element": "tweet",
+                                        "details": {
+                                            "timelinesDetails": {
+                                                "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAIACAAAAwAAgoAAQAAAAAAAAABCgAC3lR6rCxm4qsLAAMAAAATY2hlZXNlIGJyZWFkIGJ1dHRlcgoABRnkvJlyYQlBCAAGAAAAAQoABybJQrsSejseAAAAAAA="
+                                            }
+                                        }
+                                    },
+                                    "feedbackInfo": {
+                                        "feedbackKeys": [
+                                            "-1300854028"
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "replaceEntry": {
+                    "entryIdToReplace": "cursor-top-9223372036854775807",
+                    "entry": {
+                        "entryId": "cursor-top-9223372036854775807",
+                        "sortIndex": "9223372036854775807",
+                        "content": {
+                            "operation": {
+                                "cursor": {
+                                    "value": "DAACCgACFtd09uTAJxAKAAMW13T25L-K0AgABAAAAAELAAUAAAHwRW1QQzZ3QUFBZlEvZ0dKTjB2R3AvQUFBQUN3VzBqWU41Vlp3SUJiTkhxSnpGc0FCRnN1VTVWeVdBQU1XQXVBTU50V3dBQmJWRUt3ZUY2QUFGdEVwT2Z3YWtBRVd6TkdaSk5vUUFoYlFta2M2Mm1BQkZzNDhHNzRYMEFJVzBOc0pCOWZBQUJiWFc0bEIxZ0FBRnN6Vm9CZmFBQUVXeTlyOS9GZWdBQmJUWHdVRDE4QUNGdEJLdFZkV3dBRVcwTmlxZnBxUUFCYk9hWUhYVmlBQUZ0QU04MmVhQUFBVzAvZjlsTmV3QkJiUWtHcWZGbUFBRnRJaStmTlhvQWdXMXcySDUxcUFBUmJSOEFXK2xzQUFGczJ5R2RwV0FBQVd5NG1XZVpld0F4Yk1UVFNmV3BBQUZzdlAwU2FYMEFBV3plTlE1MWJBQmhiTThQMzhsOEFBRnRUVFVlM1dZQWNXMUlteTZCb1FBQmJPWVFrUEdoQUFGczRmM3ZmV2NBQVd6eVg1QkZld0FCYlNoM3M5V2lBQUZ0UjZob2thSUFnVzBnOGtIcFlBSWhiT1VFY3lsN0FGRnM1UG9pcVh3QUlXeTZBbkU1YkFBaFhLSlhzRTJuQUJGdFZVNlpsYUlBQVcxS0ZEWkZwZ0FSYlRsdHViMW5BQQgABgAAAAAIAAcAAAACDAAICgABFszRmSTaEAIAAAA",
+                                    "cursorType": "Top"
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "replaceEntry": {
+                    "entryIdToReplace": "cursor-bottom-0",
+                    "entry": {
+                        "entryId": "cursor-bottom-0",
+                        "sortIndex": "0",
+                        "content": {
+                            "operation": {
+                                "cursor": {
+                                    "value": "DAACCgACFtd09uTAJxAKAAMW13T25L-K0AgABAAAAAILAAUAAAHwRW1QQzZ3QUFBZlEvZ0dKTjB2R3AvQUFBQUN3VzBqWU41Vlp3SUJiTkhxSnpGc0FCRnN1VTVWeVdBQU1XQXVBTU50V3dBQmJWRUt3ZUY2QUFGdEVwT2Z3YWtBRVd6TkdaSk5vUUFoYlFta2M2Mm1BQkZzNDhHNzRYMEFJVzBOc0pCOWZBQUJiWFc0bEIxZ0FBRnN6Vm9CZmFBQUVXeTlyOS9GZWdBQmJUWHdVRDE4QUNGdEJLdFZkV3dBRVcwTmlxZnBxUUFCYk9hWUhYVmlBQUZ0QU04MmVhQUFBVzAvZjlsTmV3QkJiUWtHcWZGbUFBRnRJaStmTlhvQWdXMXcySDUxcUFBUmJSOEFXK2xzQUFGczJ5R2RwV0FBQVd5NG1XZVpld0F4Yk1UVFNmV3BBQUZzdlAwU2FYMEFBV3plTlE1MWJBQmhiTThQMzhsOEFBRnRUVFVlM1dZQWNXMUlteTZCb1FBQmJPWVFrUEdoQUFGczRmM3ZmV2NBQVd6eVg1QkZld0FCYlNoM3M5V2lBQUZ0UjZob2thSUFnVzBnOGtIcFlBSWhiT1VFY3lsN0FGRnM1UG9pcVh3QUlXeTZBbkU1YkFBaFhLSlhzRTJuQUJGdFZVNlpsYUlBQVcxS0ZEWkZwZ0FSYlRsdHViMW5BQQgABgAAAAAIAAcAAAACDAAICgABFszRmSTaEAIAAAA",
+                                    "cursorType": "Bottom"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        ],
+        "responseObjects": {
+            "feedbackActions": {
+                "-903480152": {
+                    "feedbackType": "NotCredible",
+                    "prompt": "This Tweet isn't credible",
+                    "confirmation": "Thanks for your help.\nThis feedback will be used in research to improve search.",
+                    "hasUndoAction": true,
+                    "confirmationDisplayType": "Inline",
+                    "clientEventInfo": {
+                        "component": "result",
+                        "element": "feedback_notcredible",
+                        "action": "click"
+                    }
+                },
+                "-1300854028": {
+                    "feedbackType": "GiveFeedback",
+                    "prompt": "This Tweet's not helpful",
+                    "confirmation": "Thanks for offering your feedback. Twitter is conducting research to improve search. Choose the option that best reflects your opinion.",
+                    "childKeys": [
+                        "328255553",
+                        "-903480152"
+                    ],
+                    "hasUndoAction": true,
+                    "confirmationDisplayType": "Inline",
+                    "clientEventInfo": {
+                        "component": "result",
+                        "element": "feedback_givefeedback",
+                        "action": "click"
+                    },
+                    "icon": "FROWN"
+                },
+                "328255553": {
+                    "feedbackType": "NotRelevant",
+                    "prompt": "This Tweet isn't relevant",
+                    "confirmation": "Thanks for your help.\nThis feedback will be used in research to improve search.",
+                    "hasUndoAction": true,
+                    "confirmationDisplayType": "Inline",
+                    "clientEventInfo": {
+                        "component": "result",
+                        "element": "feedback_notrelevant",
+                        "action": "click"
+                    }
+                }
+            }
+        }
+    },
+    "query": "cheese bread butter"
+}
