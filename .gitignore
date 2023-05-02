@@ -1,5 +1,5 @@
 venv/
 debug.log
 .debug.log
-.venv
-venv
+./.venv/
+/venv/

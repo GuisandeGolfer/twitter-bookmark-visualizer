@@ -1,20 +1,24 @@
-from twitter.account import Account
-from twitter.search import search
+import snscrape.modules.twitter as sntwitter
+import pandas as pd
 
-username, password = "@guisande4", "Diegito23!"
+query = "(from:elonmusk) until:2020-01-01 since:2010-01-01"
+tweets = []
+limit = 500
 
-account = Account(username, password)
 
-account.tweet("test tweet from twitter-api-client 123")
+for tweet in sntwitter.TwitterSearchScraper(query).get_items():
 
-'''
-    https://requests-oauthlib.readthedocs.io/en/latest/oauth2_workflow.html#web-application-flow
+    # print(vars(tweet))
+    # break
+    if len(tweets) == limit:
+        break
+    else:
+        tweets.append([tweet.date, tweet.username, tweet.content])
 
-    This is where I can use requests with the Twitter Oauth2 requirements
-    found in the Developer portal.
+df = pd.DataFrame(tweets, columns=['Date', 'User', 'Tweet'])
+print(df)
 
-    use fast_api credential section of FCC youtube video
-    to help use environment variables so secrets and URI are
-    kept hidden.
+# to save to csv
+df.to_csv('tweets.csv')
 
-'''
+# TODO: getting a 403 forbidden by twitter need to find a new API-less twitter scraper thingy
